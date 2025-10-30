@@ -1,3 +1,3 @@
 # TheWorldofBears
-Bears of the World is a comprehensive guide to the 8 different bear species. These profiles indicate their origin, habitat, varied diet, behavior, and family life. Each page highlights Conservation Status for at-risk populations. The site includes Bear Conservation Resources with actionable info and links to help bears globally.
-description
+My website is called The Bears of the World made through VScode, which is a comprehensive guide to the 8 different bear species. These pages indicate their origin, habitat, varied diet, behavior, and family life. Each page also shows their conservation status for at risk populations. The site includes Bear Conservation Resources with info and links to help bears globally. I made this to inform and educate people about the bears that aren't talked about enough and bring attention to the bears at risk of extinction! I learned how to make a good fact generator and I struggled with formating front page of my site, but I love how it looks now. [![Athena Award Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Faward.athena.hackclub.com%2Fapi%2Fbadge)](https://award.athena.hackclub.com?utm_source=readme)
+
